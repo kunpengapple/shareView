@@ -24,9 +24,6 @@
         self.backgroundColor =[UIColor yellowColor];
         self.backgroundColor =[UIColor yellowColor];
         self.backgroundColor =[UIColor yellowColor];
-        self.backgroundColor =[UIColor yellowColor];
-        self.backgroundColor =[UIColor yellowColor];
-        self.backgroundColor =[UIColor yellowColor];
 
     }
     return self;
