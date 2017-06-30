@@ -22,6 +22,12 @@
     self = [super initWithFrame:frame];
     if (self) {
         self.backgroundColor =[UIColor yellowColor];
+        self.backgroundColor =[UIColor yellowColor];
+        self.backgroundColor =[UIColor yellowColor];
+        self.backgroundColor =[UIColor yellowColor];
+        self.backgroundColor =[UIColor yellowColor];
+        self.backgroundColor =[UIColor yellowColor];
+
     }
     return self;
 }
